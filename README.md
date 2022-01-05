@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kurtajozsef
+- 👀 I’m interested in computers, games, gadgets, cycling and reading.
+- 🌱 I’m currently learning python and advanced C#.
+- 📫 How to reach me: Write a mail to kurta_jozsef@yahoo.com
